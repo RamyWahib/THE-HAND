@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: the_hand_description
+    relative_path: urdf/the_hand.urdf.xacro
+  srdf:
+    relative_path: config/the_hand.srdf
+  package_settings:
+    author_name: Ramy
+    author_email: rwahib@uwaterloo.ca
+    generated_timestamp: 1774393112

@@ -1,0 +1,56 @@
+[0.007s] Invoking command in '/home/rwahib/the_hand_ws/build/the_hand_moveit': CMAKE_PREFIX_PATH=/home/rwahib/the_hand_ws/install/the_hand_description:/home/rwahib/the_hand_ws/install/the_hand_moveit:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/rwahib/the_hand_ws/src/the_hand_moveit -DCMAKE_INSTALL_PREFIX=/home/rwahib/the_hand_ws/install/the_hand_moveit
+[0.102s] -- The C compiler identification is GNU 13.3.0
+[0.187s] -- The CXX compiler identification is GNU 13.3.0
+[0.207s] -- Detecting C compiler ABI info
+[0.296s] -- Detecting C compiler ABI info - done
+[0.303s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.305s] -- Detecting C compile features
+[0.305s] -- Detecting C compile features - done
+[0.315s] -- Detecting CXX compiler ABI info
+[0.404s] -- Detecting CXX compiler ABI info - done
+[0.410s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.410s] -- Detecting CXX compile features
+[0.411s] -- Detecting CXX compile features - done
+[0.416s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.548s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.724s] -- Configuring done (0.7s)
+[0.725s] -- Generating done (0.0s)
+[0.727s] -- Build files have been written to: /home/rwahib/the_hand_ws/build/the_hand_moveit
+[0.731s] Invoked command in '/home/rwahib/the_hand_ws/build/the_hand_moveit' returned '0': CMAKE_PREFIX_PATH=/home/rwahib/the_hand_ws/install/the_hand_description:/home/rwahib/the_hand_ws/install/the_hand_moveit:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/rwahib/the_hand_ws/src/the_hand_moveit -DCMAKE_INSTALL_PREFIX=/home/rwahib/the_hand_ws/install/the_hand_moveit
+[0.732s] Invoking command in '/home/rwahib/the_hand_ws/build/the_hand_moveit': CMAKE_PREFIX_PATH=/home/rwahib/the_hand_ws/install/the_hand_description:/home/rwahib/the_hand_ws/install/the_hand_moveit:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/rwahib/the_hand_ws/build/the_hand_moveit -- -j24 -l24
+[0.764s] Invoked command in '/home/rwahib/the_hand_ws/build/the_hand_moveit' returned '0': CMAKE_PREFIX_PATH=/home/rwahib/the_hand_ws/install/the_hand_description:/home/rwahib/the_hand_ws/install/the_hand_moveit:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/rwahib/the_hand_ws/build/the_hand_moveit -- -j24 -l24
+[0.765s] Invoking command in '/home/rwahib/the_hand_ws/build/the_hand_moveit': CMAKE_PREFIX_PATH=/home/rwahib/the_hand_ws/install/the_hand_description:/home/rwahib/the_hand_ws/install/the_hand_moveit:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/rwahib/the_hand_ws/build/the_hand_moveit
+[0.770s] -- Install configuration: ""
+[0.770s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/ament_index/resource_index/package_run_dependencies/the_hand_moveit
+[0.770s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/ament_index/resource_index/parent_prefix_path/the_hand_moveit
+[0.770s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/environment/ament_prefix_path.sh
+[0.770s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/environment/ament_prefix_path.dsv
+[0.770s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/environment/path.sh
+[0.770s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/environment/path.dsv
+[0.770s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/local_setup.bash
+[0.770s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/local_setup.sh
+[0.770s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/local_setup.zsh
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/local_setup.dsv
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/package.dsv
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/ament_index/resource_index/packages/the_hand_moveit
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/cmake/the_hand_moveitConfig.cmake
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/cmake/the_hand_moveitConfig-version.cmake
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/package.xml
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/warehouse_db.launch.py
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/rsp.launch.py
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/setup_assistant.launch.py
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/static_virtual_joint_tfs.launch.py
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/spawn_controllers.launch.py
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/demo.launch.py
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/move_group.launch.py
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/moveit_rviz.launch.py
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config
+[0.771s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/kinematics.yaml
+[0.772s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/joint_limits.yaml
+[0.772s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/ros2_controllers.yaml
+[0.772s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/pilz_cartesian_limits.yaml
+[0.772s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/moveit.rviz
+[0.772s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/the_hand.srdf
+[0.772s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/.setup_assistant
+[0.773s] Invoked command in '/home/rwahib/the_hand_ws/build/the_hand_moveit' returned '0': CMAKE_PREFIX_PATH=/home/rwahib/the_hand_ws/install/the_hand_description:/home/rwahib/the_hand_ws/install/the_hand_moveit:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/rwahib/the_hand_ws/build/the_hand_moveit

@@ -1,0 +1,34 @@
+[0.008s] Invoking command in '/home/rwahib/the_hand_ws/build/the_hand_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/rwahib/the_hand_ws/src/the_hand_description -DCMAKE_INSTALL_PREFIX=/home/rwahib/the_hand_ws/install/the_hand_description
+[0.141s] -- The C compiler identification is GNU 13.3.0
+[0.244s] -- The CXX compiler identification is GNU 13.3.0
+[0.262s] -- Detecting C compiler ABI info
+[0.355s] -- Detecting C compiler ABI info - done
+[0.365s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.365s] -- Detecting C compile features
+[0.366s] -- Detecting C compile features - done
+[0.377s] -- Detecting CXX compiler ABI info
+[0.469s] -- Detecting CXX compiler ABI info - done
+[0.477s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.477s] -- Detecting CXX compile features
+[0.477s] -- Detecting CXX compile features - done
+[0.484s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.594s] -- Found Python3: /home/rwahib/miniconda3/bin/python3 (found version "3.13.12") found components: Interpreter 
+[0.705s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.725s] Traceback (most recent call last):
+[0.727s]   File "/opt/ros/jazzy/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 22, in <module>
+[0.727s]     from catkin_pkg.package import parse_package_string
+[0.727s] ModuleNotFoundError: No module named 'catkin_pkg'
+[0.731s] [31mCMake Error at /opt/ros/jazzy/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.731s]   execute_process(/home/rwahib/miniconda3/bin/python3
+[0.731s]   /opt/ros/jazzy/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.731s]   /home/rwahib/the_hand_ws/src/the_hand_description/package.xml
+[0.731s]   /home/rwahib/the_hand_ws/build/the_hand_description/ament_cmake_core/package.cmake)
+[0.731s]   returned error code 1
+[0.731s] Call Stack (most recent call first):
+[0.731s]   /opt/ros/jazzy/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.731s]   /opt/ros/jazzy/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.731s]   CMakeLists.txt:23 (ament_lint_auto_find_test_dependencies)
+[0.732s] 
+[0.732s] [0m
+[0.732s] -- Configuring incomplete, errors occurred!
+[0.737s] Invoked command in '/home/rwahib/the_hand_ws/build/the_hand_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/rwahib/the_hand_ws/src/the_hand_description -DCMAKE_INSTALL_PREFIX=/home/rwahib/the_hand_ws/install/the_hand_description

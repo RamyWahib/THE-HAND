@@ -1,0 +1,26 @@
+[0.008s] Invoking command in '/home/rwahib/the_hand_ws/build/the_hand_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/rwahib/the_hand_ws/build/the_hand_description -- -j24 -l24
+[0.043s] Invoked command in '/home/rwahib/the_hand_ws/build/the_hand_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/rwahib/the_hand_ws/build/the_hand_description -- -j24 -l24
+[0.051s] Invoking command in '/home/rwahib/the_hand_ws/build/the_hand_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/rwahib/the_hand_ws/build/the_hand_description
+[0.058s] -- Install configuration: ""
+[0.058s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/urdf
+[0.058s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/urdf/the_hand.urdf.xacro
+[0.058s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/config
+[0.058s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/config/ros2_controllers.yaml
+[0.058s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/launch
+[0.058s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/launch/gazebo.launch.py
+[0.058s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/ament_index/resource_index/package_run_dependencies/the_hand_description
+[0.058s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/ament_index/resource_index/parent_prefix_path/the_hand_description
+[0.058s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/environment/ament_prefix_path.sh
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/environment/ament_prefix_path.dsv
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/environment/path.sh
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/environment/path.dsv
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/local_setup.bash
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/local_setup.sh
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/local_setup.zsh
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/local_setup.dsv
+[0.059s] -- Installing: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/package.dsv
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/ament_index/resource_index/packages/the_hand_description
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/cmake/the_hand_descriptionConfig.cmake
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/cmake/the_hand_descriptionConfig-version.cmake
+[0.059s] -- Up-to-date: /home/rwahib/the_hand_ws/install/the_hand_description/share/the_hand_description/package.xml
+[0.060s] Invoked command in '/home/rwahib/the_hand_ws/build/the_hand_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/rwahib/the_hand_ws/build/the_hand_description

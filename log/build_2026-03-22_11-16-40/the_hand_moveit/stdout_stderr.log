@@ -1,0 +1,50 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /home/rwahib/miniconda3/bin/python3 (found version "3.13.12") found components: Interpreter 
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/rwahib/the_hand_ws/build/the_hand_moveit
+-- Install configuration: ""
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/ament_index/resource_index/package_run_dependencies/the_hand_moveit
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/ament_index/resource_index/parent_prefix_path/the_hand_moveit
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/environment/ament_prefix_path.sh
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/environment/ament_prefix_path.dsv
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/environment/path.sh
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/environment/path.dsv
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/local_setup.bash
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/local_setup.sh
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/local_setup.zsh
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/local_setup.dsv
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/package.dsv
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/ament_index/resource_index/packages/the_hand_moveit
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/cmake/the_hand_moveitConfig.cmake
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/cmake/the_hand_moveitConfig-version.cmake
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/package.xml
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/warehouse_db.launch.py
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/rsp.launch.py
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/setup_assistant.launch.py
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/static_virtual_joint_tfs.launch.py
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/spawn_controllers.launch.py
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/demo.launch.py
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/move_group.launch.py
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/launch/moveit_rviz.launch.py
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/kinematics.yaml
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/joint_limits.yaml
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/ros2_controllers.yaml
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/pilz_cartesian_limits.yaml
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/moveit.rviz
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/config/the_hand.srdf
+-- Installing: /home/rwahib/the_hand_ws/install/the_hand_moveit/share/the_hand_moveit/.setup_assistant
